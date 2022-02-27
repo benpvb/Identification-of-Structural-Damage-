@@ -117,3 +117,7 @@ set(gca,'fontsize',12);
 
 fig_name = 'figures\FAS_Map_Case18.png';
 print(gcf, fig_name,'-dpng','-r300');   
+
+
+%% 
+code nay dung de test
